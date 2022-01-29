@@ -1,16 +1,18 @@
-# Azizbek Developer ![Developer Icon](./images/developer.png)
+# Azizbek Developer ![Developer Icon](./images/developer.png) 🇺🇿
 # 🇺🇸 - In English
-
-- ## About Me
+## Social networks
+<a href="https://t.me/AzizbekDeveloper"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://instagram.com/azizbekdeveloper"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/AzizbekDeveloper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+## About Me
 ### Hi there 👋. I'm Azizbek and I'm from [UZBEKISTAN](https://en.wikipedia.org/wiki/Uzbekistan). I'm 16 y.o.
 <br />
 
 ![AzizbekDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbekqozoqov&show_icons=true&theme=tokyonight)
 
-- 🔴 Visit My Instagram Accout [@azizbekdeveloper](https://www.instagram.com/azizbekdeveloper/)
-- 🔵 Chat with me on Telegram Messanger [@WebDev777](https://t.meWebDev777)
-- 🌐 My simple website https://azizbekdeveloper.herokuapp.com
-- 🌱 I’m currently learning ReactJS and React Native
+- **🔴 Visit My Instagram Accout [@azizbekdeveloper](https://www.instagram.com/azizbekdeveloper/)**
+- **🔵 Chat with me on Telegram Messanger [@WebDev777](https://t.meWebDev777)**
+- **🌐 My simple website https://azizbekdeveloper.herokuapp.com**
+- **🌱 I’m currently learning ReactJS and React Native**
 
 
 
@@ -20,20 +22,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekqozoqov&langs_count=8&title_color=fff&icon_color=343434&text_color=fff&bg_color=36454F&hide_border=true)](https://github.com/azizbekqozoqov/github-readme-stats)
 
 
-## Connect with me
-<a href="https://t.me/AzizbekDeveloper"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://instagram.com/azizbekdeveloper"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/AzizbekDeveloper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-
 # 🇺🇿 - O'zbekcha
 
 - ## Men haqimda
 ### Assalamu Alaikum 👋. Mening ismim Azizbek va men O'zbekistondanman. Men 16 yoshdaman.
 <br />
 
-- 🔴 Instagram Sahifamni ko'ring, [@azizbekdeveloper](https://www.instagram.com/azizbekdeveloper/)
-- 🔵 Men bilan Telegram'da suhbatlashing [@WebDev777](https://t.meWebDev777)
-- 🌐 Mening oddiygina Veb Sahifam https://azizbekdeveloper.herokuapp.com
-- 🌱 Men hozirda ReactJS va React Native ni o'rganmoqdaman.
+- **🔴 Instagram Sahifamni ko'ring, [@azizbekdeveloper](https://www.instagram.com/azizbekdeveloper/)** <
+- **🔵 Men bilan Telegram'da suhbatlashing [@WebDev777](https://t.meWebDev777)**
+- **🌐 Mening oddiygina Veb Sahifam [AzizbekDeveloper.herokuapp.com](https://azizbekdeveloper.herokuapp.com)**
+- **🌱 Men hozirda ReactJS va React Native ni o'rganmoqdaman.**
 
 
 
