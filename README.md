@@ -39,4 +39,4 @@ WEBSITE
 
 **Ranking**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=azizbekqozoqov&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=azizbekqozoqov&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
