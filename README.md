@@ -15,7 +15,7 @@ WEBSITE
 - **🔴 Visit My Instagram Accout [@azizbekdeveloper](https://www.instagram.com/azizbekdeveloper/)**
 - **🔵 Chat with me on Telegram Messanger [@algorithmg](https://t.me/algorithmg)**
 - **🌐 My simple website https://www.azizbekdev.com**
-- **🌱 I’m currently learning ReactJS and React Native**
+- **🌱 I’m currently learning AI**
 
 
 
