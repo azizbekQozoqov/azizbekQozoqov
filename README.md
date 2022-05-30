@@ -4,8 +4,8 @@ WEBSITE
 **[www.AZIZBEKDEV.com](https://www.azizbekdev.com)**
 
 ## Social networks
-<a href="https://t.me/AzizbekDeveloper"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://instagram.com/azizbekdeveloper"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/algorithmg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://github.com/azizbekQozoqov/azizbekQozoqov"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://instagram.com/azizbekdeveloper"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/azizbekdeveloper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ![GitHub followers](https://img.shields.io/github/followers/azizbekqozoqov?style=social)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/azizbekqozoqov/matplotlib?style=plastic)
@@ -16,7 +16,7 @@ WEBSITE
 
 
 - **🔴 Visit My Instagram Accout [@azizbekdeveloper](https://www.instagram.com/azizbekdeveloper/)**
-- **🔵 Chat with me on Telegram Messanger [@algorithmg](https://t.me/algorithmg)**
+- **🔵 Chat with me on Telegram Messanger [@azizbekdeveloper](https://t.me/azizbekdeveloper)**
 - **🌐 My simple website https://www.azizbekdev.com**
 - **🌱 I’m currently learning AI**
 
