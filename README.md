@@ -4,7 +4,7 @@ WEBSITE
 **[www.AZIZBEKDEV.com](https://www.azizbekdev.com)**
 
 ## Social networks
-<a href="https://github.com/azizbekQozoqov/azizbekQozoqov"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://instagram.com/azizbekdeveloper"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/azizbekQozoqov"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://instagram.com/azizbekdeveloper"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/azizbekdeveloper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ![GitHub followers](https://img.shields.io/github/followers/azizbekqozoqov?style=social)
