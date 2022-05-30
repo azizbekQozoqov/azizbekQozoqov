@@ -7,6 +7,9 @@ WEBSITE
 <a href="https://t.me/AzizbekDeveloper"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://instagram.com/azizbekdeveloper"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/algorithmg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
+![GitHub followers](https://img.shields.io/github/followers/azizbekqozoqov?style=social)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/azizbekqozoqov/matplotlib?style=plastic)
+
 ## About Me
 
 ### Hi there 👋. I'm Azizbek and I'm from [UZBEKISTAN🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan). I'm 16 y.o. I study at school.
