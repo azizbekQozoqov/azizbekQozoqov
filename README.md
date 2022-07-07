@@ -43,3 +43,5 @@ WEBSITE
 **Ranking**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=azizbekqozoqov&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trp](https://www.codewars.com/users/azizbekQozoqov/badges/large)](https://www.codewars.com/users/azizbekQozoqov/badges/large)
