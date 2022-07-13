@@ -11,7 +11,7 @@ WEBSITE
 <a href="https://instagram.com/azizbekdeveloper"><img src="https://img.shields.io/badge/instagram-D1001F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://t.me/azizbekdeveloper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.codewars.com/users/azizbekQozoqov/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
-<a href="https://www.sololearn.com/profile/20988344"><img src="https://img.shields.io/badge/sololearn-AC00B0?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
+<a href="https://www.sololearn.com/profile/20988344"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
 
 ## About Me
 
