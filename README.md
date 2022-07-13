@@ -1,4 +1,4 @@
-# [Azizbek Developer](https://www.azizbekdev.com) ![Developer Icon](./images/developer.png) 🇺🇿 [![trophy](https://github-profile-trophy.vercel.app/?username=azizbekqozoqov&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+# [Azizbek Developer](https://www.azizbekdev.com) ![Developer Icon](./images/developer.png) 🇺🇿 
 
 WEBSITE 
 **[www.AZIZBEKDEV.com](https://www.azizbekdev.com)**
@@ -39,4 +39,4 @@ WEBSITE
 
 **Ranking**
 
-[![CodeWars](https://www.codewars.com/users/azizbekQozoqov/badges/large)](https://www.codewars.com/users/azizbekQozoqov)
+[![trophy](https://github-profile-trophy.vercel.app/?username=azizbekqozoqov&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
