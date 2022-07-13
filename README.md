@@ -1,4 +1,6 @@
-# [Azizbek Developer](https://www.azizbekdev.com) ![Developer Icon](./images/developer.png) 🇺🇿 [![CodeWars](https://www.codewars.com/users/azizbekQozoqov/badges/large)](https://www.codewars.com/users/azizbekQozoqov)
+[![CodeWars](https://www.codewars.com/users/azizbekQozoqov/badges/large)](https://www.codewars.com/users/azizbekQozoqov)
+
+# [Azizbek Qozoqov](https://www.azizbekdev.com) ![Developer Icon](./images/developer.png) 🇺🇿 
 
 WEBSITE 
 **[www.AZIZBEKDEV.com](https://www.azizbekdev.com)**
@@ -21,11 +23,7 @@ WEBSITE
 - **🌐 My simple website https://www.azizbekdev.com**
 - **🌱 I’m currently learning AI**
 
-
-<hr />
-
 ## GitHub Profile
-**Github Stats**
 
 ![AzizbekDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizbekqozoqov&show_icons=true&theme=tokyonight)
 
