@@ -4,9 +4,11 @@ WEBSITE
 **[www.AZIZBEKDEV.com](https://www.azizbekdev.com)**
 
 ## Social networks
-<a href="https://github.com/azizbekQozoqov"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://instagram.com/azizbekdeveloper"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/azizbekQozoqov"><img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://gitlab.com/azizbekQozoqov/"><img src="https://img.shields.io/badge/gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white"/></a></a>
+<a href="https://instagram.com/azizbekdeveloper"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://t.me/azizbekdeveloper"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.codewars.com/users/azizbekQozoqov/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/> </a><img src="https://img.shields.io/badge/gitlab-FF6600?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
+<a href="https://www.codewars.com/users/azizbekQozoqov/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 
 
 ## About Me
