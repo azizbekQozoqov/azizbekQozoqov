@@ -1,4 +1,4 @@
-# [Azizbek Developer](https://www.azizbekdev.com) ![Developer Icon](./images/developer.png) 🇺🇿 
+# [Azizbek Developer](https://www.azizbekdev.com) ![Developer Icon](./images/developer.png) 🇺🇿 [![CodeWars](https://www.codewars.com/users/azizbekQozoqov/badges/large)](https://www.codewars.com/users/azizbekQozoqov)
 
 WEBSITE 
 **[www.AZIZBEKDEV.com](https://www.azizbekdev.com)**
@@ -34,9 +34,5 @@ WEBSITE
 <!-- **Most Used Languages**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizbekqozoqov&langs_count=8&title_color=fff&icon_color=343434&text_color=fff&bg_color=36454F&hide_border=true)](https://github.com/azizbekqozoqov/github-readme-stats) -->
-
-<br />
-
-**Ranking**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=azizbekqozoqov&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
