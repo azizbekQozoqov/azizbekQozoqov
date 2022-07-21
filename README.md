@@ -13,6 +13,11 @@ WEBSITE
 <a href="https://www.codewars.com/users/azizbekQozoqov/"><img src="https://img.shields.io/badge/codewars-DD915F?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 <a href="https://www.sololearn.com/profile/20988344"><img src="https://img.shields.io/badge/sololearn-10397c?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
 
+## Language and TOOLS
+
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/ai.svg" alt="visualstudio_code" style="max-width: 100%;">
+
+
 ## About Me
 
 ### Hi there 👋. I'm Azizbek and I'm from [UZBEKISTAN🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan). I'm 16 y.o. I study at school.
