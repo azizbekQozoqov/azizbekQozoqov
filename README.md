@@ -25,8 +25,7 @@ WEBSITE
 
 - **🔴 Visit My Instagram Accout [@azizbekdeveloper](https://www.instagram.com/azizbekdeveloper/)**
 - **🔵 Chat with me on Telegram Messanger [@azizbekdeveloper](https://t.me/azizbekdeveloper)**
-- **🌐 My simple website https://www.azizbekdev.com** <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/ai.svg" alt="visualstudio_code" style="max-width: 100%;">
-- **🌱 I’m currently learning AI** 
+- **🌐 My simple website https://www.azizbekdev.com**
 
 
 ## GitHub Profile
