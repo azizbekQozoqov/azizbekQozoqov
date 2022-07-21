@@ -15,7 +15,9 @@ WEBSITE
 
 ## Language and TOOLS
 
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="max-width: 100%;"> <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/ai.svg" alt="visualstudio_code" style="max-width: 100%;">
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,flask,github,gitlab,heroku,html,instagram,js,jquery,linux,md,py,sass,vscode,&perline=3)](https://skillicons.dev)
+
+<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/ai.svg" alt="visualstudio_code" style="max-width: 100%;">
 
 
 ## About Me
