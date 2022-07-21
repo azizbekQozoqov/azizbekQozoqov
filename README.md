@@ -15,7 +15,7 @@ WEBSITE
 
 ## Language and TOOLS
 
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/ai.svg" alt="visualstudio_code" style="max-width: 100%;">
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,flask,github,gitlab,heroku,html,instagram,js,jquery,linux,md,py,sass,vscode)](https://skillicons.dev)
 
 
 ## About Me
@@ -25,8 +25,8 @@ WEBSITE
 
 - **🔴 Visit My Instagram Accout [@azizbekdeveloper](https://www.instagram.com/azizbekdeveloper/)**
 - **🔵 Chat with me on Telegram Messanger [@azizbekdeveloper](https://t.me/azizbekdeveloper)**
-- **🌐 My simple website https://www.azizbekdev.com**
-- **🌱 I’m currently learning AI** [![My Skills](https://skillicons.dev/icons?i=bootstrap,css,discord,flask,github,gitlab,heroku,html,instagram,js,jquery,linux,md,py,sass,vscode)](https://skillicons.dev)
+- **🌐 My simple website https://www.azizbekdev.com** <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/ai.svg" alt="visualstudio_code" style="max-width: 100%;">
+- **🌱 I’m currently learning AI** 
 
 
 ## GitHub Profile
